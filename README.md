@@ -12,10 +12,13 @@ Welcome to CarCompare, your one-stop destination for comprehensive car compariso
 
 ![Screenshot 2023-08-12 173353](https://github.com/kunal2507/Car-comparison-app/assets/110448204/6ed5ff1e-52db-40a3-bf56-1f9aa5f07f67)
 
-Functional Part 🚗
 ![Screenshot 2023-08-12 173426](https://github.com/kunal2507/Car-comparison-app/assets/110448204/cb454144-c1c1-4fab-80a8-6e9483f21484)
 
+Functional Part 🚗
 ![Screenshot 2023-08-12 173505](https://github.com/kunal2507/Car-comparison-app/assets/110448204/df72f6b3-0feb-4475-930c-3ccd4f7fe06b)
+
+![Screenshot 2023-08-12 173623](https://github.com/kunal2507/Car-comparison-app/assets/110448204/c34972ba-2d0f-4cde-a7e6-fe691b74ea0a)
+
 
 User Reviews 👍
 ![Screenshot 2023-08-12 173658](https://github.com/kunal2507/Car-comparison-app/assets/110448204/4f2aca33-d4bb-475d-b6fb-d748f1d7156f)
